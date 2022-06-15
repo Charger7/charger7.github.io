@@ -1,0 +1,6 @@
+color - #9FDFFD
+img - https://static.onecms.io/wp-content/uploads/sites/28/2021/02/19/new-york-city-evening-NYCTG0221.jpg
+txt - <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Joan&display=swap" rel="stylesheet">
+ - font-family: 'Joan', serif;
